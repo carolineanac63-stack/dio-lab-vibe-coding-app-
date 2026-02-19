@@ -73,15 +73,72 @@ Durante essa etapa, você pode orientar a IA para três entregas principais:
 Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork** deste).  
 No README do seu repositório, inclua:
 
-- Seu **prompt final** (PRD);  
-- Prints ou pequenos vídeos das interações com a IA;  
-- Um resumo do que o seu **App de Finanças Pessoais** faz;  
-- Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
-  - O que aprendeu sobre conversar com IAs?
+- Seu **prompt final** (PRD);
+- PRD – App de Organização de Finanças Pessoais Conversacional
 
-> [!TIP]
+1. Visão Geral
+Aplicativo de finanças pessoais conversacional que une organização financeira, bem-estar e lazer. 
+O agente entende o contexto dos gastos e sugere trocas inteligentes sem cortes radicais, respeitando prioridades pessoais. 
+O app contempla comunicação universal (texto, voz, imagem) e acessibilidade para todos os perfis de usuários.
+
+2. Público-Alvo
+- Pessoas de todas as idades (jovens, adultos, idosos).
+- Usuários que valorizam momentos especiais e bem-estar.
+- Pessoas que buscam saúde financeira sem abrir mão de lazer.
+- Usuários com diferentes níveis de familiaridade tecnológica.
+- Pessoas com necessidades de acessibilidade (deficiência visual, auditiva, motora ou cognitiva).
+
+3. Funcionalidades-Chave
+- Comunicação Multimodal:
+  • Texto: chat natural e simples.
+  • Voz: interação por comandos de voz, linguagem adaptável.
+  • Imagens: envio de fotos de anotações, contas ou recibos.
+- Reconhecimento de Imagens e OCR:
+  • Identificação de valores e itens em fotos.
+  • Cálculos automáticos para somar gastos.
+  • Classificação em categorias: lazer, alimentação, saúde, bem-estar, prioridade.
+  • Se faltar contexto, o agente pergunta ao usuário como separar os valores.
+- Adaptação de Linguagem:
+  • Modo Jovem: linguagem descontraída e motivadora.
+  • Modo Sênior: linguagem clara, pausada, com explicações passo a passo.
+  • Modo Inclusivo: suporte a leitores de tela, legendas automáticas, contraste ajustável.
+- Acessibilidade:
+  • Compatibilidade com tecnologias assistivas (screen readers, voice-over).
+  • Interface com botões grandes e intuitivos.
+  • Opção de leitura em voz alta dos relatórios.
+  • Tradução automática para diferentes idiomas.
+- Definição e acompanhamento de metas financeiras:
+  • Metas como viagem, compra de celular, reserva de emergência.
+  • Barra de progresso clara e motivadora.
+- Relatórios personalizados:
+  • Gráficos de categorias de gastos.
+  
+- Prints ou pequenos vídeos das interações com a IA;
+- Não consegui puxar fotos ou vídeos 
+
+- 
+- Um resumo do que o seu **App de Finanças Pessoais** faz;
+- aplicativo de finanças pessoais funciona como um agente conversacional inteligente que ajuda usuários a organizar seus gastos e alcançar metas financeiras sem abrir mão de momentos especiais.
+Principais características:
+
+Registro de gastos por texto, voz ou envio de fotos de anotações/recibos.
+
+Reconhecimento automático de valores e classificação em categorias (lazer, alimentação, saúde, bem-estar, prioridade).
+
+Sugestões de economia baseadas em trocas inteligentes, respeitando prioridades pessoais.
+
+Comunicação universal, adaptável a diferentes idades e perfis, com acessibilidade integrada.
+
+Relatórios claros e metas financeiras acompanhadas de forma prática e motivadora. 
+- Uma breve **reflexão sobre o processo**:
+  - O que funcionou bem?
+  - A IA do app até que funcionou melhor do que eu esperava. Ela deu dicas de lugares mais baratos para economizar de acordo com a cidade do usuário e,não foi evasiva. Perguntou sempre o por que daquele gasto ,se era importante e trazia sugestões de trocas que diminuiam o custo da aquisição,passeio ou refeição. 
+  - O que não funcionou como o esperado?
+  - Não sei se é por que eu utilizei o celular mas,teve algumas funções do app que no teste do lovable não funcionaram. 
+  - O que aprendeu sobre conversar com IAs?
+  - Que,com o devido refinamento podemos extrair uma resposta melhor do que esperavamos e,tirar coisas que nós nem tinhamos pensado mas,qua a IA sugeriu e era realmente necessário.
+
+> [!T
 > Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
 
 ## 💬 Conclusão
