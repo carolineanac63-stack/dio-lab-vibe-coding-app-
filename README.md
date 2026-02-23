@@ -114,7 +114,7 @@ O app contempla comunicação universal (texto, voz, imagem) e acessibilidade pa
   • Gráficos de categorias de gastos.
   
 - Prints ou pequenos vídeos das interações com a IA;
-- Não consegui puxar fotos ou vídeos 
+- Anexei no repositiorio prints de  como o Lovable fez o layout do app.
 
 - 
 - Um resumo do que o seu **App de Finanças Pessoais** faz;
